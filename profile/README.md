@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../Logo.png" alt="AlsanX Logo" width="220">
+  <img src="https://raw.githubusercontent.com/AlsanX/.github/main/profile/Logo.png" alt="AlsanX Logo" width="220">
 </p>
 
 # AlsanX
