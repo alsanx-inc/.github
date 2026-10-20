@@ -1,8 +1,8 @@
-# AlsanX
-
 <p align="center">
   <img src="./Logo.png" alt="AlsanX Logo" width="220">
 </p>
+
+# AlsanX
 
 **Industrial Intelligence · Digital Twins · Simulation · AI**
 
